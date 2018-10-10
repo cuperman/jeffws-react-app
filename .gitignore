@@ -1,0 +1,8 @@
+# ignore dependencies
+/node_modules
+
+# ignore artifacts
+/dist
+
+# ignore user config files
+.tm_properties
