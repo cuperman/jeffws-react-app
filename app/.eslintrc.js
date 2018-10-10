@@ -9,6 +9,12 @@ module.exports = {
     'plugin:react/recommended'
   ],
 
+  settings: {
+    react: {
+      version: "16.5"
+    }
+  },
+
   env: {
     browser: true,
     es6: true,
